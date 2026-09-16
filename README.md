@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @minerva810
-- 👀 I’m interested in AI engineering (Machine learning, NLP, Computer Vision)
-- 🌱 I’m currently learning Tabular Data with LLM.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there,
+I'm Yein Kim.
+- I’m majoring AI engineering in INHA Univ.
+- interest in ML, NLP, Computer Vision
+- I’m currently learning Tabular Data.
 
-<!---
-minerva810/minerva810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
