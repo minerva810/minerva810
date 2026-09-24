@@ -4,4 +4,4 @@ Undergraduate student in AI Engineering at INHA Univ.
 - I’m currently learning Tabular Data.
 
 contact
-yein.research@gmail.com
+- yein.research@gmail.com
